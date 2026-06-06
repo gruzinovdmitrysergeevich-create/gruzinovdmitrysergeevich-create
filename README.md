@@ -1,10 +1,8 @@
-# Dmitry Gruzinov — GEHLEN LANER
+# Dmitry Gruzinov — Gehlen LANER
 
 Построил AI-инфраструктуру для сквозной аналитики e-commerce с нуля.
 
-- 🏢 **GEHLEN LANER** — собственный бренд, маркетплейсы Wildberries и Ozon
-- 🔧 Полный цикл AI-проекта: от идеи до production
-- 📊 Данные из API WB/Ozon → единая аналитическая платформа
+Gehlen LANER — маркетплейсы Wildberries и Ozon. Полный цикл AI-проекта: от идеи до production. Данные из API WB/Ozon в единую аналитическую платформу.
 
 ### Ключевой проект
 
@@ -12,4 +10,4 @@
 
 ### Контакты
 
-📧 gruzinov.dmitry.sergeevich@gmail.com
+gruzinov.dmitry.sergeevich@gmail.com
