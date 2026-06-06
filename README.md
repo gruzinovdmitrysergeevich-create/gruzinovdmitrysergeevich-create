@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Dmitry Gruzinov | AI Project Manager
 
-<!--
-**gruzinovdmitrysergeevich-create/gruzinovdmitrysergeevich-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Руководитель AI-проектов | E-commerce Analytics | 20+ лет управления**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 О себе
+
+Строю AI-инфраструктуру для e-commerce с нуля. Объединяю данные из 5+ источников (WB, Ozon, VK Ads, 1С, банки) в единую аналитическую платформу.
+
+- 🏢 **GEHLEN LANER** — СТМ кислородные очистители (WB/Ozon)
+- 🎯 **ex-Ростех** — исполнительный директор, портфели от 6 млрд руб.
+- 👥 Руководство командами до 96 человек
+- 🔧 Полный цикл AI-проекта: от идеи до production
+
+---
+
+### 🛠 Стек
+
+`Python` `Streamlit` `Docker` `PostgreSQL` `Metabase` `n8n` `Ollama` `Qdrant` `DeepSeek API` `WB API` `Ozon API`
+
+---
+
+### 📊 Ключевой проект
+
+**[AI-Powered E-commerce Analytics Platform](https://github.com/gruzinovdmitrysergeevich-create/gehlen-laner-ai-dashboard)**
+
+Платформа сквозной аналитики для маркетплейсов: 9 ETL-загрузчиков, real-time дашборд, AI-ассистент, дебаг-агент.
+
+---
+
+### 📬 Контакты
+
+📧 gruzinov.dmitry.sergeevich@gmail.com
+
+---
+
+*«Не инженер, не разработчик — менеджер, построивший AI-инфраструктуру с нуля.»*
