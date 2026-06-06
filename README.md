@@ -1,33 +1,27 @@
-# 👋 Dmitry Gruzinov | AI Project Manager
+# Dmitry Gruzinov
 
-**Руководитель AI-проектов | E-commerce Analytics | GEHLEN LANER**
+**AI Project Manager | E-commerce Analytics | GEHLEN LANER**
 
 ---
 
-### 🧠 О себе
+### Обо мне
 
-Строю AI-инфраструктуру для e-commerce с нуля. Объединяю данные из 5+ источников в единую аналитическую платформу.
+Предприниматель, основатель бренда GEHLEN LANER (кислородные очистители, WB/Ozon). Построил AI-инфраструктуру для сквозной аналитики e-commerce с нуля — от сбора данных до real-time дашборда с AI-ассистентом.
 
-- 🏢 **GEHLEN LANER** — собственный бренд кислородных очистителей (WB/Ozon)
+- 🏢 **GEHLEN LANER** — СТМ, маркетплейсы Wildberries и Ozon
 - 🔧 Полный цикл AI-проекта: от идеи до production
-- 📊 Кросс-функциональное управление: разработчики, дизайнеры, подрядчики
+- 📊 Данные из 5+ источников → единая аналитическая платформа
 
 ---
 
-### 🛠 Стек
+### Ключевой проект
 
-`Python` `Streamlit` `Docker` `PostgreSQL` `Metabase` `n8n` `Ollama` `Qdrant` `DeepSeek API` `WB API` `Ozon API`
+**[AI-Powered E-commerce Analytics Platform](https://github.com/gruzinovdmitrysergeevich-create/ai-ecommerce-analytics-platform)**
 
----
-
-### 📊 Ключевой проект
-
-**[AI-Powered E-commerce Analytics Platform](https://github.com/gruzinovdmitrysergeevich-create/gehlen-laner-ai-dashboard)**
-
-Платформа сквозной аналитики для маркетплейсов: ETL-загрузчики, real-time дашборд, AI-ассистент, дебаг-агент.
+Сквозная аналитика для маркетплейсов: ETL-загрузчики, Streamlit-дашборд, AI-ассистент, дебаг-агент.
 
 ---
 
-### 📬 Контакты
+### Контакты
 
 📧 gruzinov.dmitry.sergeevich@gmail.com
